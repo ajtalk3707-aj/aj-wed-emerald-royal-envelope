@@ -1,196 +1,196 @@
 {
   "meta": {
-    "invitationTitle": "Royal Palace Jharokha Theme - AJ Invitation | રોયલ લગ્ન કંકોતરી",
+    "invitationTitle": "Royal Palace Jharokha Theme - AJ Invitation | Royal Wedding Invitation",
     "branding": {
       "name": "AJ INVITATION",
       "logo": "/aj-logo.png"
     },
     "audio": {
       "title": "Auspicious Shehnai Melody",
-      "playText": "સંગીત વગાડો",
-      "playingText": "સંગીત ચાલુ"
+      "playText": "Play Music",
+      "playingText": "Music Playing"
     }
   },
   "couple": {
     "groom": {
-      "prefix": "ચિ.",
-      "name": "આયુષ",
-      "fullName": "ચિ. આયુષ",
+      "prefix": "Mr.",
+      "name": "Ayush",
+      "fullName": "Mr. Ayush",
       "photo": "/grm.jpg"
     },
     "bride": {
-      "prefix": "ચિ. સૌ. કા.",
-      "name": "રાધિકા",
-      "fullName": "ચિ. સૌ. કા. રાધિકા",
+      "prefix": "Ms.",
+      "name": "Radhika",
+      "fullName": "Ms. Radhika",
       "photo": "/brd.jpg"
     },
-    "connector": "સંગ"
+    "connector": "with"
   },
   "weddingDate": {
-    "formatted": "તા. ૨૪-૦૨-૨૦૨૭, બુધવાર",
+    "formatted": "Date: 24-02-2027, Wednesday",
     "rawDate": "2027-02-24",
-    "day": "બુધવાર"
+    "day": "Wednesday"
   },
   "venue": {
-    "name": "નીલકંઠ ફાર્મ પાર્ટી પ્લોટ",
+    "name": "Neelkanth Farm Party Plot",
     "lines": [
-      "જૂનાગઢ બાયપાસ રોડ",
-      "કાંકરડા ચોકડી, જૂનાગઢ."
+      "Junagadh Bypass Road",
+      "Kankarda Chokdi, Junagadh."
     ],
-    "city": "જૂનાગઢ"
+    "city": "Junagadh"
   },
   "contact": {
     "phone": "9687336426",
     "countryCode": "+91",
-    "whatsappGreeting": "નમસ્તે AJ Invitation, ચિ. આયુષ સંગ ચિ. સૌ. કા. રાધિકાના લગ્ન પ્રસંગે હાર્દિક શુભકામનાઓ!"
+    "whatsappGreeting": "Hello AJ Invitation, Heartiest congratulations on the wedding of Mr. Ayush with Ms. Radhika!"
   },
   "pages": {
     "cover": {
       "pageIndex": 0,
-      "pageName": "કવર",
+      "pageName": "Cover",
       "ganeshSymbol": "ॐ",
-      "shloka": "વક્રતુંડ મહાકાય, સૂર્યકોટિ સમપ્રભ ।\nનિર્વિઘ્નં કુરુ મે દેવ, સર્વકાર્યેષુ સર્વદા ॥",
-      "title": "શુભ વિવાહ",
+      "shloka": "Vakratunda Mahakaya, Suryakoti Samaprabha |\nNirvighnam Kuru Me Deva, Sarva-Karyeshu Sarvada ||",
+      "title": "Wedding Celebration",
       "inviter": {
-        "title": "નિમંત્રક",
+        "title": "Invited By",
         "lines": [
-          "શ્રી રમેશભાઈ પટેલ પરિવાર",
-          "શ્રી મહેશભાઈ શાહ પરિવાર",
-          "સરનામું: અમદાવાદ, ગુજરાત."
+          "Mr. Rameshbhai Patel Family",
+          "Mr. Maheshbhai Shah Family",
+          "Address: Ahmedabad, Gujarat."
         ]
       },
-      "scrollHint": "નીચે સ્ક્રોલ કરો ⌄"
+      "scrollHint": "Scroll Down ⌄"
     },
     "sanskar": {
       "pageIndex": 1,
-      "pageName": "વિવાહ સંસ્કાર",
-      "topInvocation": "॥ શ્રી ગણેશાય નમઃ ॥",
-      "title": "વિવાહ સંસ્કાર",
-      "shloka": "માંગલ્યં ભગવાન વિષ્ણુ, માંગલ્યં ગરુડધ્વજઃ ।\nમાંગલ્યં પુંડરીકાક્ષો, મંગલાય તનો હરિઃ ॥",
-      "intro": "સ્નેહીશ્રી, આપ સર્વેને જણાવતાં અત્યંત હર્ષ થાય છે કે અમારા પરિવારના ચિરંજીવી",
-      "blessing": "ચિ. આયુષના શુભ લગ્ન ચિ. સૌ. કા. રાધિકા સાથે નિર્ધારિત કરવામાં આવ્યા છે. આ શુભ વિવાહ પ્રસંગે આપ સપરિવાર પધારી નવદંપતીને આશીર્વાદ આપી અમારા આનંદમાં વધારો કરશો એવી નમ્ર વિનંતી."
+      "pageName": "Wedding Ceremony",
+      "topInvocation": "|| Salutations to Lord Ganesha ||",
+      "title": "Wedding Ceremony",
+      "shloka": "Mangalam Bhagwan Vishnu, Mangalam Garudadhwaja |\nMangalam Pundarikaksha, Mangalaye Tano Harih ||",
+      "intro": "Dear Family and Friends, We are delighted to announce the wedding of our beloved son",
+      "blessing": "Mr. Ayush is getting married to Ms. Radhika. We cordially invite you and your family to grace this auspicious occasion and bless the newlyweds. Your presence will add joy to our celebration."
     },
     "haldi": {
       "pageIndex": 2,
-      "pageName": "હલ્દી રસમ",
-      "title": "હલ્દી રસમ",
+      "pageName": "Haldi Ceremony",
+      "title": "Haldi Ceremony",
       "ceremony": {
-        "title": "પીઠી ચોળવાનો સમય",
-        "dayText": "મંગળવાર, તા. ૨૩-૦૨-૨૦૨૭ ના રોજ",
-        "invitationText": "આપની પધારવા વિનંતી."
+        "title": "Haldi Ceremony",
+        "dayText": "Tuesday, 23-02-2027",
+        "invitationText": "You are cordially invited to join us."
       },
       "meal": {
-        "title": "સ્વરુચી ભોજન",
-        "timing": "(ભોજન : બપોરે ૧૨:૦૦ કલાકે)"
+        "title": "Lunch",
+        "timing": "(Lunch: 12:00 PM)"
       },
       "venue": {
-        "title": "શુભ સ્થળ"
+        "title": "Venue"
       }
     },
     "lagnotsav": {
       "pageIndex": 3,
-      "pageName": "લગ્નોત્સવ",
-      "title": "લગ્નોત્સવ",
-      "quote": "બે હૃદયનું મિલન, બે પરિવારનો સંગમ…\nઆપની હાજરી અમારા આનંદનો ઉત્સવ બનાવશે.",
+      "pageName": "Wedding Celebration",
+      "title": "Wedding Celebration",
+      "quote": "The union of two hearts and the coming together of two families...\nYour presence will make our celebration even more special.",
       "events": [
         {
-          "title": "મંડપ મુહૂર્ત",
-          "date": "મંગળવાર, તા. ૨૩-૦૨-૨૦૨૭",
-          "timeHighlight": "સવારે ૯:૧૫ કલાકે",
-          "venue": "(સ્થળ : નીલકંઠ ફાર્મ પાર્ટી પ્લોટ)"
+          "title": "Mandap Muhurat",
+          "date": "Tuesday, 23-02-2027",
+          "timeHighlight": "9:15 AM",
+          "venue": "(Venue: Neelkanth Farm Party Plot)"
         },
         {
-          "title": "ભોજન સમારંભ",
-          "date": "બુધવાર, તા. ૨૪-૦૨-૨૦૨૭",
-          "timeHighlight": "બપોરે ૧૨:૩૦ કલાકે",
-          "venue": "(સ્થળ : નીલકંઠ ફાર્મ પાર્ટી પ્લોટ)"
+          "title": "Wedding Feast",
+          "date": "Wednesday, 24-02-2027",
+          "timeHighlight": "12:30 PM",
+          "venue": "(Venue: Neelkanth Farm Party Plot)"
         }
       ]
     },
     "premRaas": {
       "pageIndex": 4,
-      "pageName": "પ્રેમ રાસ",
-      "title": "પ્રેમ રાસ",
+      "pageName": "Prem Raas",
+      "title": "Prem Raas",
       "meal": {
-        "title": "સ્વરુચી ભોજન",
-        "date": "મંગળવાર, તા. ૨૩-૦૨-૨૦૨૭ ના રોજ",
-        "note": "આપની પધારવા વિનંતી.",
-        "timing": "(ભોજન : સાંજે ૭:૦૦ કલાકે)"
+        "title": "Dinner",
+        "date": "Tuesday, 23-02-2027",
+        "note": "You are cordially invited.",
+        "timing": "(Dinner: 7:00 PM)"
       },
       "garba": {
-        "title": "રાસ-ગરબા",
-        "timePrefix": "રાત્રે",
-        "timeHighlight": "૮:૩૦ કલાકે"
+        "title": "Raas-Garba",
+        "timePrefix": "At Night",
+        "timeHighlight": "8:30 PM"
       }
     },
     "jaanPrasthan": {
       "pageIndex": 5,
-      "pageName": "જાન પ્રસ્થાન",
+      "pageName": "Wedding Procession",
       "departure": {
-        "title": "જાન પ્રસ્થાન",
-        "date": "બુધવાર, તા. ૨૪-૦૨-૨૦૨૭",
-        "timePrefix": "બપોરે",
-        "timeHighlight": "૨:૩૦ કલાકે",
-        "location": "(સ્થળ : અમદાવાદ)"
+        "title": "Jaan Prasthan (Wedding Procession)",
+        "date": "Wednesday, 24-02-2027",
+        "timePrefix": "Afternoon",
+        "timeHighlight": "2:30 PM",
+        "location": "(Location: Ahmedabad)"
       },
       "hastMelap": {
-        "title": "હસ્ત મેળાપ",
-        "date": "બુધવાર, તા. ૨૪-૦૨-૨૦૨૭",
-        "timePrefix": "સાંજે",
-        "timeHighlight": "૫:૧૫ કલાકે (શુભ ચોઘડિયે)"
+        "title": "Hast Melap (Wedding Rituals)",
+        "date": "Wednesday, 24-02-2027",
+        "timePrefix": "Evening",
+        "timeHighlight": "5:15 PM (Auspicious Choghadiya)"
       },
       "note": {
-        "title": "મધુર કલરવ",
-        "text": "ચિ. આયુષ અને ચિ. સૌ. કા. રાધિકાના લગ્નના શુભ પ્રસંગે પ્રેમ અને સ્નેહની લાગણીઓ સાથે આપ સૌની હાજરી અમારા માટે આશીર્વાદ સમાન છે. પધારશો જ, એવી અપેક્ષા સહ.",
-        "signoff": "– સાદર, સમસ્ત પરિવાર"
+        "title": "Warm Wishes",
+        "text": "On the auspicious occasion of Mr. Ayush and Ms. Radhika's wedding, your presence and blessings filled with love and affection would mean the world to us. We warmly look forward to welcoming you.",
+        "signoff": "With Regards, Entire Family"
       }
     },
     "family": {
       "pageIndex": 6,
-      "pageName": "સ્નેહાધીન & દર્શનાભિલાષી",
+      "pageName": "With Affectionate Regards & Best Wishes",
       "snehadhin": {
-        "title": "લિ. સ્નેહાધીન",
+        "title": "With Affectionate Regards",
         "members": [
-          "શ્રી રમેશભાઈ પટેલ પરિવાર",
-          "શ્રી હાર્દિકભાઈ પટેલ પરિવાર",
-          "શ્રી મહેશભાઈ શાહ પરિવાર",
-          "શ્રી નિરવભાઈ શાહ પરિવાર"
+          "Mr Rameshbhai Patel Family",
+          "Mr Hardikbhai Patel Family",
+          "Mr Maheshbhai Shah Family",
+          "Mr Niravbhai Shah Family"
         ]
       },
       "darshanabhilashi": {
-        "title": "લિ. દર્શનાભિલાષી",
+        "title": "With Best Wishes",
         "members": [
-          "ચિ. હાર્દિક, ચિ. નિરવ",
-          "સમસ્ત પટેલ પરિવાર",
-          "સમસ્ત શાહ પરિવાર",
-          "સમસ્ત મિત્ર મંડળ"
+          "Mr. Hardik, Mr. Nirav",
+          "Entire Patel Family",
+          "Entire Shah Family",
+          "All Friends & Relatives"
         ]
       }
     },
     "invitation": {
       "pageIndex": 7,
-      "pageName": "મોસાળ / આમંત્રણ",
+      "pageName": "Maternal Family / Invitation",
       "mosal": {
-        "title": "મોસાળ પક્ષ",
-        "text": "શ્રી મહેશભાઈ શાહ પરિવાર"
+        "title": "Maternal Family",
+        "text": "Mr Maheshbhai Shah Family"
       },
       "banej": {
-        "title": "બાણેજ પક્ષ",
-        "text": "હાર્દિક, નિરવ અને પરિવાર"
+        "title": "Banej Paksh (Relatives)",
+        "text": "Hardik, Nirav & Family"
       },
       "firm": {
-        "title": "ફર્મ",
-        "text": "શ્રી પટેલ ટ્રેડર્સ, અમદાવાદ"
+        "title": "Business",
+        "text": "Shree Patel Traders, Ahmedabad"
       },
       "invitationMessage": {
-        "title": "આમંત્રણ",
-        "template": "ચિ. આયુષ અને ચિ. સૌ. કા. રાધિકાના શુભ લગ્ન પ્રસંગે ખુશીથી ઉજવણી સહ સમસ્ત પરિવાર આપ સર્વેને ડિજિટલ કાર્ડ દ્વારા આમંત્રણ પાઠવીએ છીએ. આપની હાજરી અમારા માટે અમૂલ્ય છે."
+        "title": "Invitation",
+        "template": "With immense joy, we invite you and your entire family to celebrate the auspicious wedding of Mr. Ayush and Ms. Radhika. Your gracious presence will make this occasion truly memorable."
       },
       "actions": {
-        "mapText": "ગૂગલ મેપ પર લોકેશન જુઓ",
-        "whatsappText": "વોટ્સએપ પર શુભેચ્છા પાઠવો (RSVP)",
-        "callPrefix": "સંપર્ક: +91",
-        "pdfText": "ડાઉનલોડ પીડીએફ કંકોતરી (PDF Export)"
+        "mapText": "View Location on Google Maps",
+        "whatsappText": "Send Wishes on WhatsApp (RSVP)",
+        "callPrefix": "Contact: +91",
+        "pdfText": "Download Wedding Invitation (PDF)"
       }
     }
   }

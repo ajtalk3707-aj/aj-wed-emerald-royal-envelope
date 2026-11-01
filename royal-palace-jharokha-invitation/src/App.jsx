@@ -635,7 +635,7 @@ export default function App() {
                   <br />
                 </span>
               ))}
-              મો. {contactNumber}
+              {contactNumber}
             </p>
           </div>
           <div className="cover-hint cursor-pointer" onClick={() => scrollToPage(1)}>
@@ -823,7 +823,7 @@ export default function App() {
                 groomName.replace('ચિ. ', '')
               )}
             </p>
-            <p className="hl mt-2">સ્થળ : {venueName}, {venueLines.join(', ')}</p>
+            <p className="hl mt-2">{venueName}, {venueLines.join(', ')}</p>
 
             {/* Action Buttons for Venue Route, WhatsApp Wishes, Call & PDF Export */}
             <div className="mt-4 flex flex-col gap-2">
