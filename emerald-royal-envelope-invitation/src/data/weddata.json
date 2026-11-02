@@ -1,0 +1,198 @@
+
+{
+  "meta": {
+    "invitationTitle": "Royal Palace Jharokha Theme - AJ Invitation | Royal Wedding Invitation",
+    "branding": {
+      "name": "AJ INVITATION",
+      "logo": "/aj-logo.png"
+    },
+    "audio": {
+      "title": "Auspicious Shehnai Melody",
+      "playText": "Play Music",
+      "playingText": "Music Playing"
+    }
+  },
+  "couple": {
+    "groom": {
+      "prefix": "Mr.",
+      "name": "Ayush",
+      "fullName": "Mr. Ayush",
+      "photo": "/grm.jpg"
+    },
+    "bride": {
+      "prefix": "Ms.",
+      "name": "Radhika",
+      "fullName": "Ms. Radhika",
+      "photo": "/brd.jpg"
+    },
+    "connector": "with"
+  },
+  "weddingDate": {
+    "formatted": "Date: 24-02-2027, Wednesday",
+    "rawDate": "2027-02-24",
+    "day": "Wednesday"
+  },
+  "venue": {
+    "name": "Neelkanth Farm Party Plot",
+    "lines": [
+      "Junagadh Bypass Road",
+      "Kankarda Chokdi, Junagadh."
+    ],
+    "city": "Junagadh"
+  },
+  "contact": {
+    "phone": "9687336426",
+    "countryCode": "+91",
+    "whatsappGreeting": "Hello AJ Invitation, Heartiest congratulations on the wedding of Chi. Ayush with Chi. Sau. Ka. Radhika!"
+  },
+  "pages": {
+    "cover": {
+      "pageIndex": 0,
+      "pageName": "Cover",
+      "ganeshSymbol": "ॐ",
+      "shloka": "Vakratunda Mahakaya, Suryakoti Samaprabha |\nNirvighnam Kuru Me Deva, Sarva-Karyeshu Sarvada ||",
+      "title": "Auspicious Wedding",
+      "inviter": {
+        "title": "Invited By",
+        "lines": [
+          "Mr. Rameshbhai Patel Family",
+          "Mr. Maheshbhai Shah Family",
+          "Address: Ahmedabad, Gujarat."
+        ]
+      },
+      "scrollHint": "Scroll Down ⌄"
+    },
+    "sanskar": {
+      "pageIndex": 1,
+      "pageName": "Wedding Ceremony",
+      "topInvocation": "|| Salutations to Lord Ganesha ||",
+      "title": "Wedding Ceremony",
+      "shloka": "Mangalyam Bhagavan Vishnu, Mangalyam Garudadhwajah |\nMangalyam Pundarikaksho, Mangalaya Tano Harih ||",
+      "intro": "Dear Family and Friends, We are delighted to announce that the beloved son of our family,",
+      "blessing": "Mr. Ayush is getting married to Ms. Radhika. On this auspicious occasion, we cordially invite you and your family to join us and bless the newlyweds. Your presence will make our celebration even more special."
+    },
+    "haldi": {
+      "pageIndex": 2,
+      "pageName": "Haldi Ceremony",
+      "title": "Haldi Ceremony",
+      "ceremony": {
+        "title": "Haldi Ceremony",
+        "dayText": "Tuesday, 23-02-2027",
+        "invitationText": "You are cordially invited."
+      },
+      "meal": {
+        "title": "Grand Feast",
+        "timing": "(Lunch: 12:00 PM)"
+      },
+      "venue": {
+        "title": "Venue"
+      }
+    },
+    "lagnotsav": {
+      "pageIndex": 3,
+      "pageName": "Wedding Celebration",
+      "title": "Wedding Celebration",
+      "quote": "The union of two hearts, the celebration of two families...\nYour presence will make our happiness truly memorable.",
+      "events": [
+        {
+          "title": "Mandap Muhurat",
+          "date": "Tuesday, 23-02-2027",
+          "timeHighlight": "9:15 AM",
+          "venue": "(Venue: Neelkanth Farm Party Plot)"
+        },
+        {
+          "title": "Wedding Feast",
+          "date": "Wednesday, 24-02-2027",
+          "timeHighlight": "12:30 PM",
+          "venue": "(Venue: Neelkanth Farm Party Plot)"
+        }
+      ]
+    },
+    "premRaas": {
+      "pageIndex": 4,
+      "pageName": "Prem Raas",
+      "title": "Prem Raas",
+      "meal": {
+        "title": "Grand Feast",
+        "date": "Tuesday, 23-02-2027",
+        "note": "You are cordially invited.",
+        "timing": "(Dinner: 7:00 PM)"
+      },
+      "garba": {
+        "title": "Raas-Garba",
+        "timePrefix": "At Night",
+        "timeHighlight": "8:30 PM"
+      }
+    },
+    "jaanPrasthan": {
+      "pageIndex": 5,
+      "pageName": "Wedding Procession",
+      "departure": {
+        "title": "Wedding Procession Departure",
+        "date": "Wednesday, 24-02-2027",
+        "timePrefix": "Afternoon",
+        "timeHighlight": "2:30 PM",
+        "location": "(Location: Ahmedabad)"
+      },
+      "hastMelap": {
+        "title": "Hast Melap (Wedding Ritual)",
+        "date": "Wednesday, 24-02-2027",
+        "timePrefix": "Evening",
+        "timeHighlight": "5:15 PM (Auspicious Choghadiya)"
+      },
+      "note": {
+        "title": "A Heartfelt Message",
+        "text": "On the auspicious occasion of the wedding of Mr. Ayush and Ms. Radhika, your presence, love, and blessings mean the world to us. Your presence will be a precious blessing for our family. We warmly look forward to welcoming you.",
+        "signoff": "– With Regards, The Entire Family"
+      }
+    },
+    "family": {
+      "pageIndex": 6,
+      "pageName": "With Affectionate Regards & Best Wishes",
+      "snehadhin": {
+        "title": "With Affectionate Regards",
+        "members": [
+          "Mr. Rameshbhai Patel Family",
+          "Mr. Hardikbhai Patel Family",
+          "Mr. Maheshbhai Shah Family",
+          "Mr. Niravbhai Shah Family"
+        ]
+      },
+      "darshanabhilashi": {
+        "title": "With Best Wishes",
+        "members": [
+          "Mr. Hardik, Mr. Nirav",
+          "Entire Patel Family",
+          "Entire Shah Family",
+          "All Friends & Relatives"
+        ]
+      }
+    },
+    "invitation": {
+      "pageIndex": 7,
+      "pageName": "Maternal Family / Invitation",
+      "mosal": {
+        "title": "Maternal Family",
+        "text": "Mr. Maheshbhai Shah Family"
+      },
+      "banej": {
+        "title": "Banej Family",
+        "text": "Mr. Hardik, Mr. Nirav and Family"
+      },
+      "firm": {
+        "title": "Business",
+        "text": "Shree Patel Traders, Ahmedabad"
+      },
+      "invitationMessage": {
+        "title": "Invitation",
+        "template": "With immense joy and happiness, we invite you and your entire family to celebrate the auspicious wedding of Mr. Ayush and Ms. Radhika. Your gracious presence will make this occasion even more memorable and precious for us."
+      },
+      "actions": {
+        "mapText": "View Location on Google Maps",
+        "whatsappText": "Send Wishes on WhatsApp (RSVP)",
+        "callPrefix": "Contact: +91",
+        "pdfText": "Download Wedding Invitation (PDF Export)"
+      }
+    }
+  }
+}
